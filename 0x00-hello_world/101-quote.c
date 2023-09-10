@@ -1,7 +1,7 @@
 #include <unistd.h>
 /**
  * main - this is the main function
- * return: always zero
+ * Return: always zero
  */
 int main(void)
 {
