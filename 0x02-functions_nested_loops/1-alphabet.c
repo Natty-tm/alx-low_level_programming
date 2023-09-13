@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - is the main finction
+ * print_alphabet - is the main function
  * Return: is always zreo
  */
 
